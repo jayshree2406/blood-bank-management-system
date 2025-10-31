@@ -35,7 +35,7 @@ It helps keep records organized and makes sure blood units are available when ne
 
 **Team Members:** 
   Jayshree Nikumbh(https://github.com/jayshree2406)
-  Neha Nikumbh(https://github.com/neha2704)
+  Neha Nikumbh(https://github.com/nehanikumbh2704)
 
 
 ## License
